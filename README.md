@@ -1,7 +1,12 @@
 #Taller Vertical ISC 2016: IoT Challenge  
-Team 8
+Equipo 8
 
-##Team members <div id="teamMembers"></div>
+##Content
+1. [Team Members](#team)
+2. [Context](#context)
+3. [Problem Description](#problem)
+
+##Integrantes <div id=”team”></div>
 
 1227030 - Diego Fernando Alatorre M
 
@@ -27,12 +32,8 @@ Team 8
 
 1223797 - César Armando de la Torre G
 
-##Content
-1. [A section](#teamMembers)
-2. [Another Section](#id-section2)
-
-<div id="id-section1">Bye</div>
-##Context
+##Context <div id=”context”></div>
 
 
-##Problem Description
+
+##Problem Description <div id=”problem”></div>
